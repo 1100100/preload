@@ -1,0 +1,22 @@
+{
+  "name": "preload",
+  "version": "0.0.1",
+  "description": "preload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1100100/preload.git"
+  },
+  "keywords": [
+    "preload"
+  ],
+  "author": "owen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1100100/preload/issues"
+  },
+  "homepage": "https://github.com/1100100/preload#readme"
+}
